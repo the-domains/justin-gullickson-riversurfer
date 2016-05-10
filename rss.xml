@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Riversurfing]]></title>
         <description><![CDATA[Riversurfing]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/justin-gullickson-riversurfer/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 10 May 2016 07:13:26 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 10 May 2016 07:13:43 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/justin-gullickson-riversurfer/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>https://youtu.be/5ExuXiz7rBY</p>]]></description>
+            <link>https://thegrid.ai/justin-gullickson-riversurfer/httpsyoutube5exuxiz7rby/index.html</link>
+            <guid isPermaLink="false">ad078d1a-130c-454b-9a20-20a5b4b791fd</guid>
+            <pubDate>Tue, 10 May 2016 07:13:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2bcc34de-6f38-445e-8b38-0e7bea1dab8a.jpg">]]></description>
-            <link>undefinedlittle-collection-of-all-my-favourite-riversurfing-gems-from/index.html</link>
+            <link>https://thegrid.ai/justin-gullickson-riversurfer/little-collection-of-all-my-favourite-riversurfing-gems-from/index.html</link>
             <guid isPermaLink="false">83c0594d-d842-4c43-a70c-d7f4d425cd62</guid>
             <pubDate>Tue, 10 May 2016 07:13:25 GMT</pubDate>
         </item>
